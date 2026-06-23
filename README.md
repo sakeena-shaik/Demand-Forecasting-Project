@@ -3,8 +3,8 @@
 The objective of this project is to analyze business sales performance by examining revenue trends, evaluating product return patterns, and forecasting future product demand. The project aims to provide actionable insights that help improve decision-making, optimize inventory management, reduce return rates, and enhance overall business profitability.
 # Problem Statement
 Organizations generate large volumes of sales and transaction data, but converting this data into meaningful business insights remains a challenge. Understanding revenue performance, identifying products with high return rates, and accurately predicting future product demand are critical for effective business planning. Without proper analysis, businesses may face inventory shortages, excess stock, reduced profitability, and increased operational costs. This project addresses these challenges by analyzing revenue and product return data and developing a predictive model to estimate product units sold for the upcoming month, enabling data-driven business decisions.
-# Key Features<br>
-**DAta Processing**: Handles nulls, duplicates.
+# Key Features
+**DAta Processing**: Handles nulls, duplicates.<br>
 **Data Analytics**
         * **Revenue Analysis**: Analysed Category wise Revenue, Product Wise Revenue, Location Wise Revenue and Extracted Top Revenue producing countries and Least                                 Revenue producing Countries.
         * **Return Analysis**: Analysed which Platforms, Countries, and Products are giving high returns and lowest no.of returns. And Visualised Yearly returns.
